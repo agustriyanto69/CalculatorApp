@@ -1,0 +1,10 @@
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Universitas Amikom Yogyakarta\Semester 3\2.Pemrograman Lanjut\01\Syelvi\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
